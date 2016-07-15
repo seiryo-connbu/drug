@@ -1,0 +1,25 @@
+@charset "utf-8";
+.product p{
+    font-size: 45px;
+    margin-bottom: 0px;
+    color: #0045ff;
+}
+.product img{
+    height: 200px;
+    margin: 10px;
+}
+.product a{
+    float: right;
+    padding-top: 100px;
+    font-size: 25px;
+    margin-right: 40px;
+}
+.product{
+    background-color: #e3ecff;
+}
+section{
+    border-top: dashed 1px #87fa87;
+}
+h1{
+    color: burlywood
+}
